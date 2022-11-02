@@ -1,0 +1,57 @@
+kjdbcksdc
+dznxcsd
+smn kxcb jhd
+jcbisd d dznxcsdjs d  
+my name is haris
+dont angry me haan
+ok jan 
+milmand
+node
+const http = require('http');
+// const fs = require('fs');
+// const server = http.createServer();
+// server.on("request", (req, res) => {
+//     if (req.url == "/index") {
+//         const rstr = fs.createReadStream("index.txt");
+//         rstr.on("data", (chunks) => {
+//             res.write(`<h1>${chunks}</h1>`);
+//         });
+//         rstr.on("end", () => {
+//             res.end();
+//         });
+//     }
+// });
+// server.on("error",()=>{
+//     console.log("Page not found")
+// })
+// server.listen("8000", "127.0.0.1");
+// // const http  = require('http');
+// // const fs = require('fs')
+// // const server = http.createServer((req,res)=>{
+// //     if (req.url === '/') {
+// //         res.writeHead(200, {'Contnet-Type':'text/html'});
+// //         res.end("HEllo from the other side");
+// //     }
+// //     if (req.url === '/show') {
+// //         fs.readFile('ac.txt','utf-8', (err,data)=>{
+// //             res.write(data);
+// //             res.end();
+// //             if(err){
+// //                 res.writeHead(404,{'Contnet-Type':'text/html'});
+// //                 res.end('File not found');
+// //             }
+// //         })
+// //     }
+// //     if (req.url === '/append') {
+// //         res.write("HEllo from the other side");
+// //         res.end();
+// //     }
+// //     if (req.url === '/') {
+// //         res.write("HEllo from the other side");
+// //         res.end();
+// //     }
+// //     if (req.url === '/') {
+// //         res.write("HEllo from the other side");
+// //         res.end();
+// //     }
+// // }).listen(8000);
